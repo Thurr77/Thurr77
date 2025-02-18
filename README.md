@@ -10,4 +10,4 @@ Meu nome é Arthur
 @xrei._.arthur 
 
 
-![](https://media.tenor.com/w72yIQZ4M-0AAAAC/toothless-nom.gif)Estou estudando na Alura
+![](https://media.tenor.com/w72yIQZ4M-0AAAAC/toothless-nom.gif)

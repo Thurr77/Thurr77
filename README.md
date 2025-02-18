@@ -7,7 +7,7 @@ Meu nome é Arthur
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
 
 ### Você entrar contato comigo 📬
-@dixxrei._.arthur 
+@xrei._.arthur 
 
 
 ![](https://media.tenor.com/w72yIQZ4M-0AAAAC/toothless-nom.gif)Estou estudando na Alura
